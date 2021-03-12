@@ -3,7 +3,7 @@ title: DoytoQuery Framework
 timezone: Asia/Shanghai
 collections:
   posts:
-    title: Test Post
+    title: Posts
     output: true
   uploads:
     title: Uploads
