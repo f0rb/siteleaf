@@ -1,8 +1,10 @@
 ---
-title: streaming-upload-component
+title: 流式上传组件
 date: 2021-03-12 16:01:00 +08:00
+categories:
+- java
 ---
 
-streaming-upload-component
-streaming-upload-component
-streaming-upload-component
+* streaming-upload-component
+* streaming-upload-component
+* streaming-upload-component
